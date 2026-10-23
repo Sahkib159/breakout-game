@@ -2,7 +2,7 @@
 
 A classic Breakout game built with **Python** and **Pygame**, compiled to WebAssembly with **pygbag** so it runs right in the browser.
 
-**▶️ Play it live:** breakout-game-web.vercel.app
+**▶️ Play it live:** [breakout-game-web.vercel.app](https://breakout-game-web.vercel.app/)
 
 ![Gameplay screenshot](screenshot.png)
 
